@@ -30,7 +30,7 @@ La superposición de la imagen con el gráfico nos permite comparar el orden.
 El gráfico, a veces da formas raras, es por la librería, que no es de las mejores :)
 
 
-Mi solución, en la miagen a continuación, muestra dos aproximaciones, una iterativa y otra recursiva: 
+Mi solución, en la imagen que hay a continuación, muestra dos aproximaciones, una iterativa y otra recursiva: 
 
 ![Resultado](resultado.PNG)
 
